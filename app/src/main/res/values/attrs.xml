@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GalleryBanner">
+        <attr name="minScaleBias" format="float" /><!--最小缩放比例-->
+        <attr name="galleryWidth" format="dimension" /><!--画廊图片宽度-->
+    </declare-styleable>
+</resources>
